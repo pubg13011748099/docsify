@@ -96,14 +96,14 @@ When using the HTML5 router, you need to set up redirect rules that redirect all
 
 ## AWS Amplify
 
-1. Set the routerMode in the Docsify project `index.html` to _history_ mode.
+1. Set the routerMode in the Docsify project `index.html` to *history* mode.
 
 ```html
 <script>
-  window.$docsify = {
-    loadSidebar: true,
-    routerMode: 'history',
-  };
+    window.$docsify = {
+      loadSidebar: true,
+      routerMode: 'history'
+    }
 </script>
 ```
 
@@ -125,26 +125,17 @@ frontend:
       - '**/*'
   cache:
     paths: []
+
 ```
 
 6. Add the following Redirect rules in their displayed order. Note that the second record is a PNG image where you can change it with any image format you are using.
 
 | Source address | Target address | Type          |
-| -------------- | -------------- | ------------- |
-| /<\*>.md       | /<\*>.md       | 200 (Rewrite) |
-| /<\*>.png      | /<\*>.png      | 200 (Rewrite) |
-| /<\*>          | /index.html    | 200 (Rewrite) |
+|----------------|----------------|---------------|
+| /<*>.md        | /<*>.md        | 200 (Rewrite) |
+| /<*>.png       | /<*>.png       | 200 (Rewrite) |
+| /<*>           | /index.html    | 200 (Rewrite) |
 
-## Stormkit
-
-1.  Login to your [Stormkit](https://www.stormkit.io) account.
-2.  Using the user interface, import your docsify project from one of the three supported Git providers (GitHub, GitLab, or Bitbucket).
-3.  Navigate to the project’s production environment in Stormkit or create a new environment if needed.
-4.  Verify the build command in your Stormkit configuration. By default, Stormkit CI will run `npm run build` but you can specify a custom build command on this page.
-5.  Set output folder to `docs`
-6.  Click the “Deploy Now” button to deploy your site.
-
-Read more in the [Stormkit Documentation](https://stormkit.io/docs).
 
 ## Docker
 
@@ -153,10 +144,10 @@ Read more in the [Stormkit Documentation](https://stormkit.io/docs).
   You need prepare the initial files instead of making them inside the container.
   See the [Quickstart](https://docsify.js.org/#/quickstart) section for instructions on how to create these files manually or using [docsify-cli](https://github.com/docsifyjs/docsify-cli).
 
-  ```sh
-  index.html
-  README.md
-  ```
+    ```sh
+    index.html
+    README.md
+    ```
 
 - Create Dockerfile
 
@@ -189,3 +180,4 @@ Read more in the [Stormkit Documentation](https://stormkit.io/docs).
   ```sh
   docker run -itp 3000:3000 --name=docsify -v $(pwd):/docs docsify/demo
   ```
+

@@ -7,12 +7,12 @@ window.$docsify = {
   markdown: {
     smartypants: true,
     renderer: {
-      link() {
+      link: function() {
         // ...
-      },
-    },
-  },
-};
+      }
+    }
+  }
+}
 ```
 
 ?> Configuration Options Reference: [marked documentation](https://marked.js.org/#/USING_ADVANCED.md)
@@ -21,12 +21,12 @@ You can completely customize the parsing rules.
 
 ```js
 window.$docsify = {
-  markdown(marked, renderer) {
+  markdown: function(marked, renderer) {
     // ...
 
-    return marked;
-  },
-};
+    return marked
+  }
+}
 ```
 
 ## Supports mermaid
@@ -36,24 +36,21 @@ window.$docsify = {
 //  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
 //  <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 
-let num = 0;
+var num = 0;
 mermaid.initialize({ startOnLoad: false });
 
 window.$docsify = {
   markdown: {
     renderer: {
-      code(code, lang) {
-        if (lang === 'mermaid') {
-          return /* html */ `
-            <div class="mermaid">${mermaid.render(
-              'mermaid-svg-' + num++,
-              code,
-            )}</div>
-          `;
+      code: function(code, lang) {
+        if (lang === "mermaid") {
+          return (
+            '<div class="mermaid">' + mermaid.render('mermaid-svg-' + num++, code) + "</div>"
+          );
         }
         return this.origin.code.apply(this, arguments);
-      },
-    },
-  },
-};
+      }
+    }
+  }
+}
 ```

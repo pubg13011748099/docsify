@@ -4,9 +4,7 @@ docsify extends Markdown syntax to make your documents more readable.
 
 > Note: For the special code syntax cases, it's better to put them within code backticks to avoid any conflict from configurations or emojis.
 
-## Callouts
-
-### Important content
+## Important content
 
 Important content like:
 
@@ -18,7 +16,7 @@ is rendered as:
 
 !> **Time** is money, my friend!
 
-### Tips
+## General tips
 
 General tips like:
 
@@ -30,15 +28,7 @@ are rendered as:
 
 ?> _TODO_ unit test
 
-## Link attributes
-
-### disabled
-
-```md
-[link](/demo ':disabled')
-```
-
-### href
+## Ignore to compile link
 
 Sometimes we will use some other relative path for the link, and we have to tell docsify that we don't need to compile this link. For example:
 
@@ -62,14 +52,20 @@ You will get `<a href="/demo/">link</a>`html. Do not worry, you can still set th
 <a href="/demo/" title="title">link</a>
 ```
 
-### target
+## Set target attribute for link
 
 ```md
 [link](/demo ':target=_blank')
 [link](/demo2 ':target=_self')
 ```
 
-## Task lists
+## Disable link
+
+```md
+[link](/demo ':disabled')
+```
+
+## GitHub Task Lists
 
 ```md
 - [ ] foo
@@ -87,21 +83,9 @@ You will get `<a href="/demo/">link</a>`html. Do not worry, you can still set th
   - [ ] bim
   - [ ] lim
 
-## Images
+## Image
 
-### Class names
-
-```md
-![logo](https://docsify.js.org/_media/icon.svg ':class=someCssClass')
-```
-
-### IDs
-
-```md
-![logo](https://docsify.js.org/_media/icon.svg ':id=someCssId')
-```
-
-### Sizes
+### Resizing
 
 ```md
 ![logo](https://docsify.js.org/_media/icon.svg ':size=WIDTHxHEIGHT')
@@ -117,13 +101,25 @@ You will get `<a href="/demo/">link</a>`html. Do not worry, you can still set th
 ![logo](https://docsify.js.org/_media/icon.svg ':size=100')
 ![logo](https://docsify.js.org/_media/icon.svg ':size=10%')
 
-## Heading IDs
+### Customise class
+
+```md
+![logo](https://docsify.js.org/_media/icon.svg ':class=someCssClass')
+```
+
+### Customise ID
+
+```md
+![logo](https://docsify.js.org/_media/icon.svg ':id=someCssId')
+```
+
+## Customise ID for headings
 
 ```md
 ### Hello, world! :id=hello-world
 ```
 
-## Markdown + HTML
+## Markdown in html tag
 
 You need to insert a space between the html and markdown content.
 This is useful for rendering markdown content in the details element.
@@ -160,8 +156,7 @@ Markdown content can also be wrapped in html tags.
 
 <div style='color: red'>
 
-- listitem
-- listitem
-- listitem
+- Abc
+- Abc
 
 </div>

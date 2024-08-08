@@ -262,8 +262,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :beach_umbrella: `:beach_umbrella:`
 
-:beans: `:beans:`
-
 :bear: `:bear:`
 
 :bearded_person: `:bearded_person:`
@@ -323,10 +321,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :birthday: `:birthday:`
 
 :bison: `:bison:`
-
-:biting_lip: `:biting_lip:`
-
-:black_bird: `:black_bird:`
 
 :black_cat: `:black_cat:`
 
@@ -465,8 +459,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :brunei: `:brunei:`
 
 :bubble_tea: `:bubble_tea:`
-
-:bubbles: `:bubbles:`
 
 :bucket: `:bucket:`
 
@@ -792,8 +784,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :copyright: `:copyright:`
 
-:coral: `:coral:`
-
 :corn: `:corn:`
 
 :costa_rica: `:costa_rica:`
@@ -851,8 +841,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :crossed_swords: `:crossed_swords:`
 
 :crown: `:crown:`
-
-:crutch: `:crutch:`
 
 :cry: `:cry:`
 
@@ -988,11 +976,7 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :dominican_republic: `:dominican_republic:`
 
-:donkey: `:donkey:`
-
 :door: `:door:`
-
-:dotted_line_face: `:dotted_line_face:`
 
 :doughnut: `:doughnut:`
 
@@ -1070,8 +1054,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :email: `:email:`
 
-:empty_nest: `:empty_nest:`
-
 :end: `:end:`
 
 :england: `:england:`
@@ -1118,17 +1100,9 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :face_exhaling: `:face_exhaling:`
 
-:face_holding_back_tears: `:face_holding_back_tears:`
-
 :face_in_clouds: `:face_in_clouds:`
 
-:face_with_diagonal_mouth: `:face_with_diagonal_mouth:`
-
 :face_with_head_bandage: `:face_with_head_bandage:`
-
-:face_with_open_eyes_and_hand_over_mouth: `:face_with_open_eyes_and_hand_over_mouth:`
-
-:face_with_peeking_eye: `:face_with_peeking_eye:`
 
 :face_with_spiral_eyes: `:face_with_spiral_eyes:`
 
@@ -1306,8 +1280,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :flushed: `:flushed:`
 
-:flute: `:flute:`
-
 :fly: `:fly:`
 
 :flying_disc: `:flying_disc:`
@@ -1317,8 +1289,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :fog: `:fog:`
 
 :foggy: `:foggy:`
-
-:folding_hand_fan: `:folding_hand_fan:`
 
 :fondue: `:fondue:`
 
@@ -1416,8 +1386,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :gift_heart: `:gift_heart:`
 
-:ginger_root: `:ginger_root:`
-
 :giraffe: `:giraffe:`
 
 :girl: `:girl:`
@@ -1444,8 +1412,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :golfing_woman: `:golfing_woman:`
 
-:goose: `:goose:`
-
 :gorilla: `:gorilla:`
 
 :grapes: `:grapes:`
@@ -1469,8 +1435,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :grenada: `:grenada:`
 
 :grey_exclamation: `:grey_exclamation:`
-
-:grey_heart: `:grey_heart:`
 
 :grey_question: `:grey_question:`
 
@@ -1506,8 +1470,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :guyana: `:guyana:`
 
-:hair_pick: `:hair_pick:`
-
 :haircut: `:haircut:`
 
 :haircut_man: `:haircut_man:`
@@ -1524,15 +1486,11 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :hammer_and_wrench: `:hammer_and_wrench:`
 
-:hamsa: `:hamsa:`
-
 :hamster: `:hamster:`
 
 :hand: `:hand:`
 
 :hand_over_mouth: `:hand_over_mouth:`
-
-:hand_with_index_finger_and_thumb_crossed: `:hand_with_index_finger_and_thumb_crossed:`
 
 :handbag: `:handbag:`
 
@@ -1566,8 +1524,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :heart_eyes_cat: `:heart_eyes_cat:`
 
-:heart_hands: `:heart_hands:`
-
 :heart_on_fire: `:heart_on_fire:`
 
 :heartbeat: `:heartbeat:`
@@ -1581,8 +1537,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :heavy_division_sign: `:heavy_division_sign:`
 
 :heavy_dollar_sign: `:heavy_dollar_sign:`
-
-:heavy_equals_sign: `:heavy_equals_sign:`
 
 :heavy_exclamation_mark: `:heavy_exclamation_mark:`
 
@@ -1662,8 +1616,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :hut: `:hut:`
 
-:hyacinth: `:hyacinth:`
-
 :ice_cream: `:ice_cream:`
 
 :ice_cube: `:ice_cube:`
@@ -1678,8 +1630,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :id: `:id:`
 
-:identification_card: `:identification_card:`
-
 :ideograph_advantage: `:ideograph_advantage:`
 
 :imp: `:imp:`
@@ -1687,8 +1637,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :inbox_tray: `:inbox_tray:`
 
 :incoming_envelope: `:incoming_envelope:`
-
-:index_pointing_at_the_viewer: `:index_pointing_at_the_viewer:`
 
 :india: `:india:`
 
@@ -1732,11 +1680,7 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :japanese_ogre: `:japanese_ogre:`
 
-:jar: `:jar:`
-
 :jeans: `:jeans:`
-
-:jellyfish: `:jellyfish:`
 
 :jersey: `:jersey:`
 
@@ -1769,8 +1713,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :keyboard: `:keyboard:`
 
 :keycap_ten: `:keycap_ten:`
-
-:khanda: `:khanda:`
 
 :kick_scooter: `:kick_scooter:`
 
@@ -1862,10 +1804,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :leftwards_arrow_with_hook: `:leftwards_arrow_with_hook:`
 
-:leftwards_hand: `:leftwards_hand:`
-
-:leftwards_pushing_hand: `:leftwards_pushing_hand:`
-
 :leg: `:leg:`
 
 :lemon: `:lemon:`
@@ -1885,8 +1823,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :libya: `:libya:`
 
 :liechtenstein: `:liechtenstein:`
-
-:light_blue_heart: `:light_blue_heart:`
 
 :light_rail: `:light_rail:`
 
@@ -1918,8 +1854,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :lotion_bottle: `:lotion_bottle:`
 
-:lotus: `:lotus:`
-
 :lotus_position: `:lotus_position:`
 
 :lotus_position_man: `:lotus_position_man:`
@@ -1935,8 +1869,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :love_letter: `:love_letter:`
 
 :love_you_gesture: `:love_you_gesture:`
-
-:low_battery: `:low_battery:`
 
 :low_brightness: `:low_brightness:`
 
@@ -2074,8 +2006,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :maple_leaf: `:maple_leaf:`
 
-:maracas: `:maracas:`
-
 :marshall_islands: `:marshall_islands:`
 
 :martial_arts_uniform: `:martial_arts_uniform:`
@@ -2115,8 +2045,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :mega: `:mega:`
 
 :melon: `:melon:`
-
-:melting_face: `:melting_face:`
 
 :memo: `:memo:`
 
@@ -2162,8 +2090,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :mirror: `:mirror:`
 
-:mirror_ball: `:mirror_ball:`
-
 :mobile_phone_off: `:mobile_phone_off:`
 
 :moldova: `:moldova:`
@@ -2193,8 +2119,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :moon: `:moon:`
 
 :moon_cake: `:moon_cake:`
-
-:moose: `:moose:`
 
 :morocco: `:morocco:`
 
@@ -2283,8 +2207,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :nepal: `:nepal:`
 
 :nerd_face: `:nerd_face:`
-
-:nest_with_eggs: `:nest_with_eggs:`
 
 :nesting_dolls: `:nesting_dolls:`
 
@@ -2480,11 +2402,7 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :palestinian_territories: `:palestinian_territories:`
 
-:palm_down_hand: `:palm_down_hand:`
-
 :palm_tree: `:palm_tree:`
-
-:palm_up_hand: `:palm_up_hand:`
 
 :palms_up_together: `:palms_up_together:`
 
@@ -2523,8 +2441,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :pause_button: `:pause_button:`
 
 :paw_prints: `:paw_prints:`
-
-:pea_pod: `:pea_pod:`
 
 :peace_symbol: `:peace_symbol:`
 
@@ -2572,8 +2488,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :person_white_hair: `:person_white_hair:`
 
-:person_with_crown: `:person_with_crown:`
-
 :person_with_probing_cane: `:person_with_probing_cane:`
 
 :person_with_turban: `:person_with_turban:`
@@ -2614,8 +2528,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :ping_pong: `:ping_pong:`
 
-:pink_heart: `:pink_heart:`
-
 :pirate_flag: `:pirate_flag:`
 
 :pisces: `:pisces:`
@@ -2631,8 +2543,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :plate_with_cutlery: `:plate_with_cutlery:`
 
 :play_or_pause_button: `:play_or_pause_button:`
-
-:playground_slide: `:playground_slide:`
 
 :pleading_face: `:pleading_face:`
 
@@ -2686,8 +2596,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :pound: `:pound:`
 
-:pouring_liquid: `:pouring_liquid:`
-
 :pout: `:pout:`
 
 :pouting_cat: `:pouting_cat:`
@@ -2701,10 +2609,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :pray: `:pray:`
 
 :prayer_beads: `:prayer_beads:`
-
-:pregnant_man: `:pregnant_man:`
-
-:pregnant_person: `:pregnant_person:`
 
 :pregnant_woman: `:pregnant_woman:`
 
@@ -2852,13 +2756,7 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :right_anger_bubble: `:right_anger_bubble:`
 
-:rightwards_hand: `:rightwards_hand:`
-
-:rightwards_pushing_hand: `:rightwards_pushing_hand:`
-
 :ring: `:ring:`
-
-:ring_buoy: `:ring_buoy:`
 
 :ringed_planet: `:ringed_planet:`
 
@@ -2925,8 +2823,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :sake: `:sake:`
 
 :salt: `:salt:`
-
-:saluting_face: `:saluting_face:`
 
 :samoa: `:samoa:`
 
@@ -3009,8 +2905,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :sewing_needle: `:sewing_needle:`
 
 :seychelles: `:seychelles:`
-
-:shaking_face: `:shaking_face:`
 
 :shallow_pan_of_food: `:shallow_pan_of_food:`
 
@@ -3496,8 +3390,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :triumph: `:triumph:`
 
-:troll: `:troll:`
-
 :trolleybus: `:trolleybus:`
 
 :trollface: `:trollface:`
@@ -3692,8 +3584,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :whale2: `:whale2:`
 
-:wheel: `:wheel:`
-
 :wheel_of_dharma: `:wheel_of_dharma:`
 
 :wheelchair: `:wheelchair:`
@@ -3732,11 +3622,7 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 
 :wine_glass: `:wine_glass:`
 
-:wing: `:wing:`
-
 :wink: `:wink:`
-
-:wireless: `:wireless:`
 
 :wolf: `:wolf:`
 
@@ -3831,8 +3717,6 @@ Below is a complete list of emoji shorthand codes. Docsify can be configured to 
 :writing_hand: `:writing_hand:`
 
 :x: `:x:`
-
-:x_ray: `:x_ray:`
 
 :yarn: `:yarn:`
 

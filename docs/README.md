@@ -1,4 +1,4 @@
-# docsify
+## docsify
 
 > A magical documentation site generator.
 
@@ -16,6 +16,8 @@ See the [Quick start](quickstart.md) guide for more details.
 - Multiple themes
 - Useful plugin API
 - Emoji support
+- Compatible with IE11
+- Support server-side rendering ([example](https://github.com/docsifyjs/docsify-ssr-demo))
 
 ## Examples
 
@@ -24,10 +26,6 @@ Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) 
 ## Donate
 
 Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-### Gold sponsors
-
-[![](_images/Route4Me.png ':size=200')](https://route4me.com/ 'Best Route Planning and Route Optimization Software')
 
 ## Community
 

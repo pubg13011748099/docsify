@@ -1,9 +1,6 @@
-<!-- markdownlint-disable first-line-h1 -->
-
 - Translations
-
-  - [English](/)
-  - [简体中文](/zh-cn/)
-  - [Deutsch](/de-de/)
-  - [Español](/es/)
-  - [Русский](/ru-ru/)
+  - [:uk: English](/)
+  - [:cn: 简体中文](/zh-cn/)
+  - [:de: Deutsch](/de-de/)
+  - [:es: Español](/es/)
+  - [:ru: Русский](/ru-ru/)
